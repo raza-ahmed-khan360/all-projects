@@ -6,33 +6,33 @@ const projects = [
   {
     name: "Resume Builder",
     description: "A greate tool to help the job seekers to make resume.",
-    link: "resume-builder-editable-downloadable.vercel.app",
+    link: "https://resume-builder-editable-downloadable.vercel.app",
     image: "/assets/resume-builder.png",
   },
   {
     name: "Simple MultiPage Website",
     description:
       "A perfect starter for the beginner to learn how to make a website.",
-    link: "multipage-tailwind-css-website.vercel.app",
+    link: "https://multipage-tailwind-css-website.vercel.app",
     image: "/assets/simple-multipage.png",
   },
   {
     name: "Facebook Login Page Clone",
     description: "Simple facebook login page demonstration",
-    link: "facebook-login-six-swart.vercel.app",
+    link: "https://facebook-login-six-swart.vercel.app",
     image: "/assets/facebook-login.png",
   },
   {
     name: "Personal Portfolio",
     description:
       "A Personal Portfolio where I showcase my skills and projects.",
-    link: "personal-portfolio-next-js-tailwind-css.vercel.app",
+    link: "https://personal-portfolio-next-js-tailwind-css.vercel.app",
     image: "/assets/personal-portfolio.png",
   },
   {
     name: "Todo App",
     description:"Super Simple beginner friendly Todo App",
-    link: "todo-app-beginner.vercel.app",
+    link: "https://todo-app-beginner.vercel.app",
     image: "/assets/todo.png",
   },
 ];
