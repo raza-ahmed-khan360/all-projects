@@ -29,6 +29,12 @@ const projects = [
     link: "personal-portfolio-next-js-tailwind-css.vercel.app",
     image: "/assets/personal-portfolio.png",
   },
+  {
+    name: "Todo App",
+    description:"Super Simple beginner friendly Todo App",
+    link: "todo-app-beginner.vercel.app",
+    image: "/assets/todo.png",
+  },
 ];
 
 const LandingPage = () => {
