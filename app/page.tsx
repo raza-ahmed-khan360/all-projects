@@ -35,6 +35,24 @@ const projects = [
     link: "https://todo-app-beginner.vercel.app",
     image: "/assets/todo.png",
   },
+  {
+    name: "Calculator",
+    description:"Simple Standard Calculator for daily use",
+    link: "https://simple-standard-calculator.vercel.app",
+    image: "/assets/calculator.png",
+  },
+  {
+    name: "Countdown Timer",
+    description:"Simple Countdown timer for everyday tasks",
+    link: "https://count-down-timer-next.vercel.app",
+    image: "/assets/countdown-timer.png",
+  },
+  {
+    name: "Sample Porfolio",
+    description:"Sample portfolio UI/UX design for Inspiration",
+    link: "https://sample-portfolio-next-app.vercel.app",
+    image: "/assets/sample-portfolio.png",
+  },
 ];
 
 const LandingPage = () => {
